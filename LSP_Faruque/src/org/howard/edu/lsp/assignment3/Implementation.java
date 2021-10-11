@@ -184,7 +184,7 @@ public void intersect(IntegerSet intSetb) {
 	
 } 
 
-// Set difference, i.e., s1 –s2
+// Set difference, i.e., s1 â€“s2
 /**
  * This method will print out only values that are contained from one of each set, but not both
  * @param intSetb User will input another set to add
